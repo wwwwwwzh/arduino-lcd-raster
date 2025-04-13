@@ -3,9 +3,11 @@ A arduino renderer for st7735 display written from scratch.
 
 [A quick glimpse through different stages of the project](https://youtu.be/XhSsomLc2cM)
 
-<a href="https://youtu.be/XhSsomLc2cM">
-  <img src="https://user-images.githubusercontent.com/36484215/191156477-c4bcbae1-7f75-4a2d-82ad-92bb15897a02.png" width="200" >
-</a>
+
+
+https://github.com/user-attachments/assets/aa2c169f-53e4-4839-aabd-6c598af1e0d5
+
+
 
 Here is an example of Darth Vadar rendering in real time.
 
